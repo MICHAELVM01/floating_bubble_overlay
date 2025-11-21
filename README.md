@@ -32,7 +32,7 @@ This version includes enhancements:
 <br>
 
 <p align="center">
-<img src="docs/demo.gif" width="30%" alt="Floating Bubble Overlay Demo" />
+<img src="doc/demo.gif" width="30%" alt="Floating Bubble Overlay Demo" />
 <br>
 This animation represents how the plugin behaves
 </p>
