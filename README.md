@@ -1,3 +1,5 @@
+<img src="doc/fondo.png" width="100%" alt="Dash Bubble Banner" />
+
 <h2 align="center">
   Floating Bubble Overlay
 </h2>
