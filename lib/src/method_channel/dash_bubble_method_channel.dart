@@ -28,7 +28,7 @@ class MethodChannelDashBubble extends DashBubblePlatform {
       return (await methodChannel.invokeMethod<bool>(method, arguments))!;
     } on PlatformException catch (_) {
       logError(
-        'PlatformException: $method\n\nPlease report this issue on GitHub via: https://github.com/moazelsawaf/dash_bubble/issues/new',
+        'PlatformException: $method\n\nPlease report this issue on GitHub via: https://github.com/MICHAELVM01/floating_bubble_overlay/issues/new',
       );
       rethrow;
     } on MissingPluginException catch (_) {
